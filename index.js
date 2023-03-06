@@ -111,7 +111,7 @@ async function getTemplate(param){
                 'authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4NUs0TlUySUZVTTZYM1I2IiwiaXNzIjoiaHR0cHM6Ly9hcGkuaWxvZ2dlcnouY29tL2FwaS92MS9sb2dpbiIsImlhdCI6MTY3ODA4NzAzNywiZXhwIjoxNjc4MDkwNjM3LCJuYmYiOjE2NzgwODcwMzcsImp0aSI6Ijg1SzROVTJJRlVNNlgzUjYxNjc4MDg3MDM3In0.nGVUR_nz2GaP2Q1vFboWyNB5KNA5NdnjWZih3ntZJcA'
             }
         })
-        console.log("data=========",data)
+        console.log("data=========",data);
         // .then(async (res) => {
         //     data = await res.json();
         // })
